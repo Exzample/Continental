@@ -1,11 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
 #section1 {
     background-image: linear-gradient( rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35) ), url("../Images/StockImages/global-AdobeStock_309902754.jpeg");
     background-position: center;
     background-size: cover;
     height: 350px;
-    width: ;
     color: white;
-    font-family: 'Open Sans', sans-serif;
 
 }
 
@@ -25,7 +31,16 @@ img {
     border:0;
 }
 
-.conresSolutions {
-    border-color: red;
+#crteSolutions {
     border-top-width: 5px;
+}
+
+.stockPhoto {
+    height: 200px;
+    width: 400px;
+}
+
+.Icons {
+    height: auto;
+    width: auto;
 }
