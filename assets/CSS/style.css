@@ -24,3 +24,8 @@
 img {
     border:0;
 }
+
+.conresSolutions {
+    border-color: red;
+    border-top-width: 5px;
+}
