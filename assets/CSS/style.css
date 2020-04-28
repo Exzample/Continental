@@ -10,9 +10,13 @@ body {
     background-image: linear-gradient( rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35) ), url("../Images/StockImages/global-AdobeStock_309902754.jpeg");
     background-position: center;
     background-size: cover;
-    height: 350px;
+    height: 300px;
     color: white;
 
+}
+
+#section2 {
+    margin-bottom: 40px;;
 }
 
 .subheading {
@@ -24,7 +28,7 @@ body {
 }
 
 #toplogo {
-    padding: 4%;
+    margin: 30px 0 20px;
 }
 
 img {
@@ -32,7 +36,13 @@ img {
 }
 
 #crteSolutions {
-    border-top-width: 5px;
+    
+}
+
+@media only screen and (max-width: 950px) {
+
+    #conresSolutions { margin-bottom: 40px;}
+
 }
 
 .stockPhoto {
@@ -43,4 +53,35 @@ img {
 .Icons {
     height: auto;
     width: auto;
+}
+
+#conres-img {
+    display: block;
+}
+
+#crte-img {
+    display: block;
+}
+
+#criButton {
+    background-color: #618e49;
+    color: white;
+}
+
+#crteButton{
+    background-color: #ffa51b;
+    color: white;
+}
+
+footer {
+    background-color: #14243b;
+    vertical-align: middle;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    margin: 0;
+    padding: 30px 0;
 }
