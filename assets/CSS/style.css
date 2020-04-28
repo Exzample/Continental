@@ -10,9 +10,12 @@ body {
     background-image: linear-gradient( rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35) ), url("../Images/StockImages/global-AdobeStock_309902754.jpeg");
     background-position: center;
     background-size: cover;
-    height: 300px;
     color: white;
+    padding-bottom: 40px;
+}
 
+#section1 h1 {
+    font-size: 2rem;
 }
 
 #section2 {
@@ -21,6 +24,8 @@ body {
 
 .subheading {
     line-height: 2rem;
+    max-width: 900px;
+    margin: auto;
 }
 
 .container {
@@ -37,6 +42,10 @@ img {
 
 #crteSolutions {
     
+}
+
+@media only screen and (max-width: 600px) {
+
 }
 
 @media only screen and (max-width: 950px) {
