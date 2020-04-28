@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
+    
 }
 
 
@@ -12,39 +13,44 @@ body {
     background-size: cover;
     color: white;
     padding-bottom: 40px;
+
 }
 
 #section1 h1 {
     font-size: 2rem;
+
 }
 
 #section2 {
     margin-bottom: 40px;;
+
 }
 
 .subheading {
     line-height: 2rem;
     max-width: 900px;
     margin: auto;
+
 }
 
 .container {
     width: 100%;
+
 }
 
 #toplogo {
     margin: 30px 0 20px;
+
 }
 
 img {
     border:0;
+
 }
 
-#crteSolutions {
-    
-}
 
 @media only screen and (max-width: 600px) {
+
 
 }
 
@@ -52,36 +58,43 @@ img {
 
     #conresSolutions { margin-bottom: 40px;}
 
+
 }
 
 .stockPhoto {
     height: 200px;
     width: 400px;
+
 }
 
 .Icons {
     height: auto;
     width: auto;
+
 }
 
 #conres-img {
     display: block;
     width: 100%;
+
 }
 
 #crte-img {
     display: block;
     width: 100%;
+
 }
 
 #criButton {
     background-color: #618e49;
     color: white;
+
 }
 
 #crteButton{
     background-color: #ffa51b;
     color: white;
+
 }
 
 footer {
@@ -90,6 +103,7 @@ footer {
     position: absolute;
     bottom: 0;
     width: 100%;
+
 }
 
 footer p {
@@ -98,4 +112,5 @@ footer p {
     vertical-align: middle;
     margin: 0;
     padding: 30px 0;
+
 }
