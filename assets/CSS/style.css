@@ -104,8 +104,8 @@ footer {
     bottom: 0;
     width: 100%;
     position: sticky;
-    margin-top: -3px;
-
+    margin-bottom: 0px;
+    
 }
 
 footer p {
