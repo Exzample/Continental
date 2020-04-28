@@ -87,6 +87,9 @@ img {
 footer {
     background-color: #14243b;
     vertical-align: middle;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 footer p {
