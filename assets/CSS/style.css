@@ -66,10 +66,12 @@ img {
 
 #conres-img {
     display: block;
+    width: 100%;
 }
 
 #crte-img {
     display: block;
+    width: 100%;
 }
 
 #criButton {
